@@ -61,11 +61,6 @@ body {
     display: none;
 }
 
-.scrollerContent__36d07 {
-    padding-bottom: 0px !important;
-    bottom: -10px;
-    overflow: hidden !important;
-}
 
 /* hover thing */
 
@@ -444,9 +439,7 @@ body {
         border: none !important;
         background: none;
     }
-    .chatContent_f75fb0 {
-        overflow: hidden;
-    }
+   
     .container__133bf /* friends page group outer */,
     .page__5e434 {
         padding-bottom: var(--gap);
@@ -755,9 +748,7 @@ body {
     --font-code: var(--code-font), 'gg mono';
 }
 
-[class*='scroll'] {
-    will-change: scroll-position;
-}
+
 .burstGlow__23977 {
     display: none;
 }
