@@ -10,12 +10,12 @@
     --chatbar-height: 56px;
 
 
-    --main-hue: 1400;
-    --bg-hue: 1400;
+    --main-hue: 14;
+    --bg-hue: 14;
 
 }
 
-
+/*
 .icon__6e9f8, 
 .icon_f34534  {
   filter: blur(4px);
@@ -36,7 +36,7 @@
 .accountNameText__9bfb9  {
   filter: blur(4px);
 }
-
+*/
 
 body {
  /* height of the chatbar (52px by default, 47px to align it with the user panel) */
